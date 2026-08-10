@@ -10,6 +10,7 @@ maintainers:
       - name: "project-maintainers"
         members:
           - romanbaron
+          - omer-dayan
           - itsomri
           - enoodle
           - davidLif
